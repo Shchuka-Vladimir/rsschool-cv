@@ -35,7 +35,7 @@ IT-Academy - Website development using HTML, CSS and JavaScript
 
 ### Projects
 
-CV
+CV#1 (https://Shchuka-Vladimir.github.io/rsschool-cv/cv)
 
 ### Education
 
