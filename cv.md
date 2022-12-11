@@ -5,9 +5,9 @@
 - **Location:** Minsk, Belarus
 - **Phone:** +375 33 638-48-80
 - **Email:** vovtut.by@gmail.com
-- **GitHub:** Shchuka-Vladimir (https://github.com/Shchuka-Vladimir)
-- **Discord:** Vladimir (#Shchuka-Vladimir) (https://discord.com/channels/@me)
-- **Telegram:** @vshchuka (https://t.me/vshchuka)
+- **GitHub:** [Shchuka-Vladimir](https://github.com/Shchuka-Vladimir)
+- **Discord:** [Vladimir  (#Shchuka-Vladimir)](https://discord.com/channels/@me)
+- **Telegram:** [@vshchuka](https://t.me/vshchuka)
 
 ### About Me
 
@@ -35,7 +35,7 @@ IT-Academy - Website development using HTML, CSS and JavaScript
 
 ### Projects
 
-CV#1 (https://Shchuka-Vladimir.github.io/rsschool-cv/cv)
+[CV#1](https://Shchuka-Vladimir.github.io/rsschool-cv/cv)
 
 ### Education
 
